@@ -1,0 +1,3 @@
+
+class ComskipToolException(Exception):
+    pass
